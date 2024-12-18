@@ -6,5 +6,5 @@
 
 ## PANDAS
 ### Lessons
-#### [lOADING THE DATA](https://github.com/Dhanyatha-s/PANDAS-SERIES/blob/main/PANDAS%20LESSONS/Loding%20data.md)
+#### [LOADING THE DATA](https://github.com/Dhanyatha-s/PANDAS-SERIES/blob/main/PANDAS%20LESSONS/Loding%20data.md)
 
